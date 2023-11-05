@@ -1,0 +1,73 @@
+body {
+
+    
+    background-color: brown;
+   background-image: url(/Imagen/Cast.jpg);
+   background-repeat: no-repeat;
+   border: 2px dotted blue;
+   
+   background: linear-gradient(0deg,rgba(142,157,21,1) 0%, rgba(142,230,161,1) 100%)
+   background-repeat: no-repeat;
+
+   background-position: static;
+   
+   
+
+  
+   
+}
+
+header h1 {
+
+   display: inline;
+}
+
+.logo {
+
+   border: 2px solid rgb(0, 255, 76); 
+   border-radius: 15px;
+}
+
+h1 {
+   color: chartreuse;
+}
+
+div {
+   color: aqua;
+}
+
+hr {
+   /* border-top: 5px dotted rgb(50,191,28)*
+        border: 1px dotted red*/
+        color:brown
+
+
+}
+
+.container-fluid {
+
+   margin: 10px 5px;
+
+   border: 3px solid brown;
+   padding: 7px;
+   
+   /*background: linear-gradient(0deg,rgba(142,157,21,1) 0%, rgba(142,230,161,1) 100%);
+
+  margin: width: 100%;
+   background: rgb(142,157,21)*/        
+   
+               
+}
+o
+a {
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color: black;
+   text-decoration: none;
+
+}
+
+a:hover {
+
+   color: aliceblue;
+  background: black;
+}
